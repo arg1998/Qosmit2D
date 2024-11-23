@@ -1,6 +1,6 @@
 # Qosmit2D
 
-Qosmit2D is amy simple 2D game engine in C++ and SFML built with Entity-Component-System (ECS) design in mind. I will be using this engine to build my games in the future. 
+Qosmit2D is my simple 2D game engine in C++ and SFML built with Entity-Component-System (ECS) design in mind. I will be using this engine to build my games in the future. 
 
 Here is a simple demo:
 
